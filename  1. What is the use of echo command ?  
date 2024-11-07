@@ -1,5 +1,3 @@
-
 echo is command that outputs the strings that are passed to it as argument . 
-
-echo “hello  worlds ! “ 
+Example : echo “hello  worlds ! “ 
 
